@@ -1,2 +1,2 @@
 # matiassos
-## Hola mi nombre es Matias y voy a ser pdi
+## Hola mi nombre es Matias y voy a ser de la pdi
